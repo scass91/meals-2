@@ -19,5 +19,5 @@ Have a github account, with global git config set up
 ## Authors
 
 * **Simon Cass** - [Simon Cass](https://github.com/scass91)
-* **Georges Le Vaillant** - [GLV] (https://github.com/stonefarmer9)
+* **Georges Le Vaillant** - [GLV](https://github.com/stonefarmer9)
 
